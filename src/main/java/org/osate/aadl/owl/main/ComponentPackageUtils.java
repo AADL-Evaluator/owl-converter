@@ -1,4 +1,4 @@
-package org.osate.aadl.owl.utils;
+package org.osate.aadl.owl.main;
 
 import java.util.Collection;
 import org.osate.aadl.evaluator.project.Component;
